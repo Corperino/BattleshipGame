@@ -1,0 +1,45 @@
+.Battleship {
+    text-align: center;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  .main-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 20px;
+  }
+
+  .direction_toggle {
+    background-color: #007bff;
+    color: white; 
+    font-size: 14px; 
+    font-weight: bold;
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer;
+    max-height: 50px;
+  
+  }
+  
+  .direction_toggle:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+  }
+  
+  
+
+  
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    button {
+        grid-column: span 2;    
+    }
+  }
+  
+  

@@ -1,0 +1,11 @@
+.statistics {
+  width: 200px;
+  float: right;
+  margin: 15px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  border: solid gray 1px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
