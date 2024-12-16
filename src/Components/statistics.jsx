@@ -1,3 +1,4 @@
+import React from 'react';
 import "./statistics.css";
 /*
 Statistics Component
