@@ -1,5 +1,5 @@
 import "./App.css";
-import Battleship from "./Game/Battleship";
+import Battleship from "./Game/Battleship.jsx";
 
 function App() {
   return (
