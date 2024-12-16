@@ -19,6 +19,10 @@ npm install
 ```
 npm start
 ```
+### Step 5. run tests
+```
+npm test
+```
 ## Gameplay Instructions
 
 ### Start the Game.
